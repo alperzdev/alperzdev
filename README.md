@@ -1,5 +1,5 @@
 <h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-   <p align="left">Merhaba ben Alper, ALPERZ. Oyun oynamanın yanında yazılımda geliştiriyoruz.</p>  
+   <p align="left">Merhaba ben Alper, ALPERZ. Oyun oynamanın yanında yazılımda geliştiriyorum.</p>  
 <h3>Sosyal Medya Hesaplarım:</h3>
 <p align="left">
    <a href="https://discord.com/users/698109437084303391" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
