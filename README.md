@@ -5,20 +5,20 @@
    <a href="https://discord.com/users/698109437084303391" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://github.com/alperzdev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-<div align="center">
-    <a href="https://discord.com/users/698109437084303391" title="Discord Hesabım"><img src="https://lanyard-profile-readme.vercel.app/api/698109437084303391"></a>
-</div>
+
 <h3>Hakkımda:</h3>
 <ul>
-  <li> * Yazılımı severim.</li>
-  <li> * Güneşli havaları severim.</li>
+  <li> </li>
+  <li> Yazılım geliştirmeyi severim.</li>
   <li> * Eğer istersen bana <a href="https://discord.com/users/698109437084303391" target"blank_">Discord</a> üzerinden ulaşabilirsin!</li>
 </ul>
-<h3>Öğrendiğim Yazılım Dilleri / Çalıştırma Ortamları:</h3>
+<h3> Bilgi sahibi olduğum yazılım dilleri:</h3>
 <p style="float:right">
+   <code><a href="https://www.csharp.com/#alperzdev"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
    <code><a href="https://www.javascript.com/#alperzdev"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
    <code><a href="https://nodejs.org/en/about/#alperzdev"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
    <code><a href="https://www.html.com/#alperzdev"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
+
 <!--
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
